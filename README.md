@@ -4,6 +4,12 @@ CirlceBoy is a small circuit board that lets you replace the directional pad on 
 ## Installation Gallery
 A gallery of my installation of the board can be [found here](https://imgur.com/a/vMOLDO8).
 
+## Hardware
+* 0603 0.1uf cap
+* board - https://oshpark.com/shared_projects/1QXsRf0p
+* ribbon connector
+* Attiny85 SOIC package
+
 ## Configuration
 You can select between 4 different modes for the stick. Modes are selected by shorting out the dpad contacts in the appropriate direction when you turn the system on. The configuration is stored in the EEPROM of the chip, so you only have to set it once.
 
